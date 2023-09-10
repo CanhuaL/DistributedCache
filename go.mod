@@ -1,4 +1,4 @@
-module GeeCache
+module DistributedCache
 
 go 1.20
 

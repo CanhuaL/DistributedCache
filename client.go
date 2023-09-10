@@ -1,8 +1,8 @@
-package GeeCache
+package DistributedCache
 
 import (
-	pb "GeeCache/geecachepb"
-	"GeeCache/registry"
+	pb "DistributedCache/geecachepb"
+	"DistributedCache/registry"
 	"context"
 	"fmt"
 	clientv3 "go.etcd.io/etcd/client/v3"

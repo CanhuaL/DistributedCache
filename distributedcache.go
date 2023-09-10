@@ -1,8 +1,8 @@
-package GeeCache
+package DistributedCache
 
 import (
-	pb "GeeCache/geecachepb"
-	"GeeCache/singleflight"
+	pb "DistributedCache/geecachepb"
+	"DistributedCache/singleflight"
 	"fmt"
 	"log"
 	"sync"
